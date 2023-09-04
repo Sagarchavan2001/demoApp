@@ -1,0 +1,16 @@
+PODS:
+  - UICheckbox (0.0.2)
+
+DEPENDENCIES:
+  - UICheckbox
+
+SPEC REPOS:
+  trunk:
+    - UICheckbox
+
+SPEC CHECKSUMS:
+  UICheckbox: 54af9bc308c8c2b18404f4c360172115c0daea36
+
+PODFILE CHECKSUM: 14dec160651a19ab309a34e15a4ec204dcf34d52
+
+COCOAPODS: 1.11.3
